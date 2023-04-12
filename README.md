@@ -8,3 +8,9 @@ Frontend made using Mobirise.
 
 Uses basemap for Demographic Mapping.
 
+
+List of contributors :
+- Vidish
+- Deepika
+- Akhil
+- Kumar Aishwarya
